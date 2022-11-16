@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejercicio2 {
 
     public static void main(String[] args) {
-        int[] arreglo = new int[10];
+        int[] arreglo = new int[20];
         int x = 0;
         List<Integer> pares = new ArrayList<Integer>();
         List<Integer> inpares = new ArrayList<Integer>();
